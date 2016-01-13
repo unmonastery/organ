@@ -49,7 +49,7 @@ Apart from the exception mentioned in the previous paragraph a reference to an a
 Liability of Members
 
 1. (1) The liability of members is limited.
-(2) Every member of the company promises, if the company is dissolved while he or she or it is a member or within 12 months after he or she or it ceases to be a member, to contribute such sum (not exceeding GBP 500) as may be demanded of him or her or it towards the payment of the debts and liabilities of the company incurred before he or she or it ceases to be a member, and of the costs charges and expense of winding up, and the adjustment of the rights of the contributories among themselves.
+(2) Every member of the company promises, if the company is dissolved while he or she or it is a member or within 12 months after he or she or it ceases to be a member, to contribute such sum (not exceeding GBP 1000) as may be demanded of him or her or it towards the payment of the debts and liabilities of the company incurred before he or she or it ceases to be a member, and of the costs charges and expense of winding up, and the adjustment of the rights of the contributories among themselves.
 
 Objects
 
@@ -57,7 +57,7 @@ Objects
 
     1. Fostering the adoption of a variant of the monastic rule as a method for fostering community development, stability and harmony.
 
-    2. Marshalling people and resources to effectively manage projects that contribute to building sustainable healthy communities within the context of that paradigm.
+    2. Marshalling people and resources to effectively manage projects that contribute to building sustainable healthy communities within the context of that paradigms.
 
 Powers
 
@@ -69,11 +69,13 @@ Powers
 
     3. to sell, lease or otherwise dispose of all or any part of the property belonging to the company;
 
-    4. to establish or support any other organisations, associations or institutions formed for any of the purposes included in the Objects;
+    4. to borrow money and to charge the whole or any part of the property belonging to the company as security for repayment of the money borrowed or as security for a grant or the discharge of an obligation;
 
-    5. to employ and remunerate such staff as are necessary for carrying out the work of the company. The company may employ or remunerate a director only to the extent it is permitted to do so by article 6 and provided it complies with the conditions in that article;
+    5. to establish or support any other organisations, associations or institutions formed for any of the purposes included in the Objects;
 
-    6. to:
+    6. to employ and remunerate such staff as are necessary for carrying out the work of the company. The company may employ or remunerate a director only to the extent it is permitted to do so by article 6 and provided it complies with the conditions in that article;
+
+    7. to:
 
         1. deposit or invest funds;
 
@@ -83,13 +85,7 @@ Powers
 
         4. to provide indemnity insurance for the directors;
 
-        5. for projects approved by simple majority of the company members:
-
-            1. grant an open source license for the the company’s assets to the approved project’s organisation or director(s); and
-
-            2. register a subdomain for the project, if requested.
-
-        6. to pay out of the funds of the company the costs of forming and registering the company;
+        5. to pay out of the funds of the company the costs of forming and registering the company;
 
 Application of income and property
 
@@ -107,7 +103,7 @@ Application of income and property
 
 1. a benefit from the company in the capacity of a beneficiary of the company;
 
-2. reasonable and proper remuneration for any goods or services supplied to the company excluding remuneration for being a director of the company;
+2. reasonable and proper remuneration for any goods or services supplied to the company including remuneration for being a director of the company;
 
 Members
 
@@ -115,15 +111,9 @@ Members
 
 (2) Membership is open to other individuals or organisations who:
 
-    1. fulfill the criteria of the company’s time bank which stipulates 100 hours of work in service to the company that is:
+        1. pply to the company in the form required by the directors;
 
-        1. publicly registered on the time bank; 
-
-        2. not financially renumerated by the company;
-
-        3. reviewed and validated by at least two company members; and
-
-        4. approved by the directors.
+        2. are approved by the directors.
 
 (3)
 
@@ -139,7 +129,7 @@ Members
 
 Classes of membership
 
-1. (1) The directors may establish classes of membership at general meetings only, with different rights and obligations and shall record the rights and obligations in the register of members.
+1. (1) The directors may establish classes of membership with different rights and obligations and shall record the rights and obligations in the register of members.
 
 (2) The rights attached to a class of membership may only be varied if:
 
@@ -155,17 +145,13 @@ Termination of membership
 
 1. the member dies or, if it is an organisation, ceases to exist;
 
-2. the member resigns by written notice to the company unless, after the resignation there would be less than one member;
+2. the member resigns by written notice to the company unless, after the resignation./ there would be less than one member;
 
 3. any sum due from the member to the company is not paid in full within six months of it falling due;
 
-4. the member is removed from membership by a resolution of the members, requiring a super-majority of two thirds of those voting 
+4. the member is removed from membership by a resolution of the directors that it is in the best interests of the company that his or her or its membership is terminated.
 
-5. members by a super-majority of two-thirds voting that it is in the best interests of the company that his or her or its membership is terminated.
-
-6. the member does not fulfill, within the previous calendar year of membership, the criteria of Article 7(2)a 
-
-7. A resolution to remove a member from membership may only be passed if:
+5. A resolution to remove a member from membership may only be passed if:
 
     1. the member has been given at least twenty-one days notice in writing of the meeting of the directors at which the resolution will be proposed and the reasons why it is to be proposed;
 
@@ -176,7 +162,7 @@ General meetings
 1. (1) The company must hold its first annual general meeting within eighteen months after the date of its incorporation.
 (2) An annual general meeting must be held in each subsequent year and not more than fifteen months may elapse between successive annual general meetings.
 
-2. A General Meeting may be called at any time in accordance with the Companies Act requirements.
+2. The directors may call a general meeting at any time.
 
 Notice of general meetings
 
@@ -198,7 +184,7 @@ Proceedings at general meetings
 
 1. (1) No business shall be transacted at any general meeting unless a quorum is present.
 
-(2) A quorum is one half of the total membership present in person or by proxy and entitled to vote upon the business to be conducted at the meeting.
+(2) A quorum is one tenth of the total membership present in person or by proxy and entitled to vote upon the business to be conducted at the meeting.
 
 (3) The authorised representative of a member organisation shall be counted in the quorum.
 
@@ -214,7 +200,13 @@ the meeting shall be adjourned to such time and place as the directors shall det
 
 (3) If no quorum is present at the reconvened meeting within fifteen minutes of the time specified for the start of the meeting the members present in person or by proxy at that time shall constitute the quorum for that meeting.
 
-1. General meetings shall be chaired by a member present at the meeting who shall be elected by the meeting, such election shall be the first order of business.
+1. (1) General meetings shall be chaired by the person who has been appointed to chair meetings of the directors.
+
+(2) If there is no such person or he or she is not present within fifteen minutes of the time appointed for the meeting a director nominated by the directors shall chair the meeting.
+
+If there is only one director present and willing to act, he or she shall chair the meeting.
+
+If no director is present and willing to chair the meeting within fifteen minutes after the time appointed for holding it, the members present in person or by proxy and entitled to vote must choose one of their number to chair the meeting.
 
 1. (1) The members present in person or by proxy at a meeting may resolve by ordinary resolution that the meeting shall be adjourned.
 
@@ -236,7 +228,7 @@ the meeting shall be adjourned to such time and place as the directors shall det
 
 1. The declaration by the person who is chairing the meeting of the result of a vote shall be conclusive unless a poll is demanded.
 
-2. The result of the vote must be recorded in the minutes of the company and the number or proportion of votes cast must be recorded.
+2. The result of the vote must be recorded in the minutes of the company but the number or proportion of votes cast need not be recorded.
 
 (3)
 
@@ -294,7 +286,7 @@ Delivery of proxy notices
 
 (3) A notice revoking a proxy appointment only takes effect if it is delivered before the start of the meeting or adjourned meeting to which it relates.
 
-(4) If a proxy notice is not executed by the person appointing the proxy, it must be accompanied by written evidence of the authority of the person who executed it to execute it on the appointer’s behalf.
+(4) If a proxy notice is not executed by the person appointing the proxy, it must be accompanied by written evidence of the authority of the person who executed it to execute it on the appointor’s behalf.
 
 Written resolutions
 
@@ -312,9 +304,9 @@ Written resolutions
 
 Votes of members
 
-1. Subject to article 8, every member, whether an individual, special class of member, or an organisation, shall have one vote.
+1. Subject to article 8, every member, whether an individual or an organisation, shall have one vote.
 
-2. Any objection to the qualification of any voter must be raised at the meeting at which the vote is tendered and the decision must be reached according to the voting procedure of article 18.
+2. Any objection to the qualification of any voter must be raised at the meeting at which the vote is tendered and the decision of the person who is chairing the meeting shall be final
 
 3. (1) Any organisation that is a member of the company may nominate any person to act as its representative at any meeting of the company.
 
@@ -352,7 +344,7 @@ Retirement of directors
 
 Appointment of directors
 
-1. The members of the company may by votes at a general meeting:
+1. The company may by ordinary resolution:
 
 1. appoint a person who is willing to act to be a director; and
 
@@ -360,7 +352,7 @@ Appointment of directors
 
 1. No person other than a director retiring by rotation may be appointed a director at any general meeting unless:
 
-1. he or she is recommended for re-election by the members; or
+1. he or she is recommended for re-election by the directors; or
 
 2. not less than fourteen nor more than thirty-five clear days before the date of the meeting, the company is given a notice that:
 
@@ -374,7 +366,9 @@ Appointment of directors
 
 1. All members who are entitled to receive notice of a general meeting must be given not less than seven nor more than twenty-eight clear days notice of any resolution to be put to the meeting to appoint a director other than a director who is to retire by rotation.
 
-The directors may not appoint a temporary director. If, upon disqualification or retirement, the company has less than three directors, members may call an extraordinary general meeting to appoint a director in the interim period or else elect a new director by ordinary resolution. 
+2. (1) The directors may appoint a person who is willing to act to be a director.
+
+(2) A director appointed by a resolution of the other directors must retire at the next annual general meeting and must not be taken into account in determining the directors who are to retire by rotation.
 
 1. The appointment of a director, whether by the company in general meeting or by the other directors, must not cause the number of directors to exceed any number fixed as the maximum number of directors.
 
@@ -390,8 +384,6 @@ Disqualification and removal of directors
 
     4. is absent without the permission of the directors from all their meetings held within a period of six consecutive months and the directors resolve that his or her office be vacated.
 
-    5. ceases to act within and in service to the Objects of the company, as determined by a super-majority of two thirds of those voting.
-
 Remuneration of directors
 
 1. The directors may be paid reasonable and proper remuneration subject to article 6.
@@ -400,7 +392,7 @@ Proceedings of directors
 
 1. (1) The directors may regulate their proceedings as they think fit, subject to the provisions of the articles.
 
-(2) Any director may call a meeting of the directors, and company members must be given notice of the meeting in accordance with Article 51.
+(2) Any director may call a meeting of the directors.
 
 (3) The secretary (if any) must call a meeting of the directors if requested to do so by a director.
 
@@ -410,31 +402,25 @@ Proceedings of directors
 
 (6) A meeting may be held by suitable electronic means agreed by the directors in which each participant may communicate with all the other participants.
 
-(7) The minutes of the meeting must be available for company members to review within 7 days.
-
 1. (1) No decision may be made by a meeting of the directors unless a quorum is present at the time the decision is purported to be made. Present includes being present by suitable electronic means agreed by the directors in which a participant or participants may communicate with all the other participants.
 
-(2) The quorum shall be one or the number nearest to one-half of the total number of directors, whichever is the greater, or such larger number as may be decided from time to time by the directors.
+(2) The quorum shall be one or the number nearest to one-third of the total number of directors, whichever is the greater, or such larger number as may be decided from time to time by the directors.
 
 (3) A director shall not be counted in the quorum present when any decision is made about a matter upon which that director is not entitled to vote.
 
 1. If the number of directors is less than the number fixed as the quorum, the continuing directors or director may act only for the purpose of filling vacancies or of calling a general meeting.
 
-2. (1) The directors shall appoint a person to chair their meetings and may at any time revoke such appointment.
+2. (1) The directors shall appoint a director to chair their meetings and may at any time revoke such appointment.
 
-(2) If no-one has been appointed to chair meetings of the directors or if the person appointed is unwilling to preside or is not present within ten minutes after the time appointed for the meeting, the continuing directors or director may act only for the purpose of calling a general meeting.
+(2) If no-one has been appointed to chair meetings of the directors or if the person appointed is unwilling to preside or is not present within ten minutes after the time appointed for the meeting, the directors present may appoint one of their number to chair that meeting.
 
 (3) The person appointed to chair meetings of the directors shall have no functions or powers except those conferred by the articles or delegated to him or her by the directors.
 
 1. (1) A resolution in writing or in electronic form agreed by a simple majority of all the directors entitled to receive notice of a meeting of directors or of a committee of directors and to vote upon the resolution shall be as valid and effectual as if it had been passed at a meeting of the directors or (as the case may be) a committee of directors duly convened and held provided that:
 
-    1. a copy of the resolution is sent or submitted to all the members eligible to vote; and
+    1. a copy of the resolution is sent or submitted to all the directors eligible to vote; and
 
-    2. members of the company are given proper notice of the resolution and a 7 day period to request that the decision reached at a meeting of the directors must be reviewed, and therefore the resolution must not be passed until the reasonable review process proposed by the member has been enacted;
-
-    3. the review process of directors’ resolutions must take place and conclude within 14 days of its proposal;
-
-    4. a simple majority of members has signified its agreement to the resolution in an authenticated document or documents which are received at the registered office within the period of 28 days beginning with the circulation date.
+    2. a simple majority of directors has signified its agreement to the resolution in an authenticated document or documents which are received at the registered office within the period of 28 days beginning with the circulation date.
 
 (2) The resolution in writing may comprise several documents containing the text of the resolution in like form to each of which one or more directors has signified their agreement.
 
@@ -474,7 +460,7 @@ if without:
 
 3. the decision has been made by a majority of the directors at a quorate meeting.
 
-(2) Article 45 (1) does not permit a director or a connected person to keep any benefit that may be conferred upon him or her by a resolution of the directors or of a committee of directors if, but for article 45 (1), the resolution would have been void, or if the director has not complied with article.
+(2) Article 45 (1) does not permit a director or a connected person to keep any benefit that may be conferred upon him or her by a resolution of the directors or of a committee of directors if, but for article 45 (1), the resolution would have been void, or if the director has not complied with article 
 
 Seal
 
@@ -500,10 +486,6 @@ Accounts
 
 (2) The directors must keep accounting records as required by the Companies Acts.
 
-(3) The directors must publicly post open accounting records every 90 days.
-
-(4) The directors must provide accounting records within 14 days publicly upon request by any member of the company, and records must comply with open financial data standards.
-
 Means of communication to be used
 
 1. (1) Subject to the articles, anything sent or supplied by or to the company under the articles may be sent or supplied in any way in which the Companies Act 2006 provides for documents or information which are authorised or required by any provision of that Act to be sent or supplied by or to the company.
@@ -516,7 +498,7 @@ Means of communication to be used
 
     2. must be given in electronic form.
 
-1. The company may give any notice to a member either:
+1. (1) The company may give any notice to a member either:
 
     1. personally; or
 
@@ -525,6 +507,8 @@ Means of communication to be used
     3. by leaving it at the address of the member; or
 
     4. by giving it in electronic form to the member’s address.
+
+(2) A member who does not register an address with the company or who registers only a postal address that is not within the United Kingdom shall not be entitled to receive any notice from the company.
 
 1. A member present in person at any meeting of the company shall be deemed to have received notice of the meeting and of the purposes for which it was called.
 
@@ -562,7 +546,7 @@ Rules
 
 (3) The company in general meeting has the power to alter, add to or repeal the rules or bye laws.
 
-(4) The directors must abide by the terms outlined in in article 53  to bring the rules and bye laws to the notice of members of the company within 7 days of their resolution and subject to review as stated in article 42(1).
+(4) The directors must adopt such means as they think sufficient to bring the rules and bye laws to the notice of members of the company.
 
 (5) The rules or bye laws shall be binding on all members of the company. No rule or bye law shall be inconsistent with, or shall affect or repeal anything contained in, the articles.
 
