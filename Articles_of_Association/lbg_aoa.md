@@ -1,430 +1,888 @@
-## ARTICLES OF ASSOCIATION
+Articles of Association of unMonastery LBG 
+===========================================
 
+being a co‑operative company limited by guarantee
+-------------------------------------------------
 
-### Articles of Association of UNMONASTERY
+**General**
 
-1. The company’s name is
+1 Defined terms
 
-UNMONASTERY
+2 Purpose and application of income and property
 
+3 Profit of the co‑operative
 
-### Interpretation (2)
+4 Dissolution
 
-2. In the articles:
+5 Liability of members
 
-address means a postal address or, for the purposes of electronic communication, a fax number, an email or postal address or a telephone number for receiving text messages in each case registered with the company;
+**Directors**
 
-the articles means the company’s articles of association;
+6 Directors’ general authority
 
-clear days in relation to the period of a notice means a period excluding: 
-The day when the notice is given or deemed to be given; and
-The day for which it is given or on which it is given or on which it takes effect;
+7 Members’ reserve power
 
-Companies Act means the Companies Act (as defined in section 2 of the Companies Act 2006) insofar as they apply to the company;
+8 Directors may delegate
 
-the directors means the directors of the company.
+9 Committees
 
-document includes, unless otherwise specified, any document sent or supplied in electronic form;
+10 Directors’ decisions
 
-electronic form has the meaning given in section 1168 of the Companies Act 2006;
+11 Calling a directors’ meeting
 
-the memorandum means the company’s memorandum of association; 
+12 Participation in directors’ meetings
 
-officers includes the directors and the secretary (if any);
+13 Quorum for directors’ meetings
 
-the seal means the common seal of the company if it has one;
+14 Facilitation of directors’ meetings
 
-secretary means any person appointed to perform the duties of the secretary of the company;
+15 Conflicts of interest
 
-the United Kingdom means Great Britain and Northern Ireland; and
+16 Directors’ discretion to make further rules
 
-words importing one gender shall include all genders, and the singular includes the plural and vice versa.
+17 Methods of appointing directors
 
-Unless the context otherwise requires words or expressions contained in the articles have the same meaning as contained in the Companies Acts but excluding any statutory modification not in force when this constitution becomes binding on the company.
+18 Termination of director’s appointment
 
-Apart from the exception mentioned in the previous paragraph a reference to an act of parliament includes any statutory modification or re-enactment of it for the time being in force.
+19 Directors’ remuneration
 
-### Liability of Members (3)
+20 Directors’ expenses
 
-3. (1) The liability of members is limited.
-(2) Every member of the company promises, if the company is dissolved while he or she or it is a member or within 12 months after he or she or it ceases to be a member, to contribute such sum (not exceeding GBP 500) as may be demanded of him or her or it towards the payment of the debts and liabilities of the company incurred before he or she or it ceases to be a member, and of the costs charges and expense of winding up, and the adjustment of the rights of the contributories among themselves.
+**Membership**
 
+21 Accounts
 
-### Objects (4)
+22 Membership
 
-4. The company’s objects are specifically restricted to the following:
-a. Fostering the adoption of a variant of the monastic rule as a method for fostering community development, stability and harmony.
-b. Marshalling people and resources to effectively manage projects that contribute to building sustainable healthy communities within the context of that paradigm.
+25 General meetings
 
+26 Calling a general meeting
 
-### Powers (5)
+27 Attendance and speaking at general meetings
 
-5. The company has power to do anything which is calculated to further its Object(s) or is conducive or incidental to doing so. In particular, the company has power:
-(1) to raise funds;
-(2) to buy, take on lease or in exchange, hire or otherwise acquire any property and to maintain and equip it for use;
-(3) to sell, lease or otherwise dispose of all or any part of the property belonging to the company;
-(4) to borrow money and to charge the whole or any part of the property belonging to the company as security for repayment of the money borrowed or as security for a grant or the discharge of an obligation;
-(5) to establish or support any other organisations, associations or institutions formed for any of the purposes included in the Objects;
-(6) to employ and remunerate such staff as are necessary for carrying out the work of the company. The company may employ or remunerate a director only to the extent it is permitted to do so by article 6 and provided it complies with the conditions in that article;
-(7) to:
-a. deposit or invest funds;
-b. employ a professional fund-manager; and
-c. arrange for the investments or other property of the company to be held in the name of a nominee;
-d. to provide indemnity insurance for the directors;
-e. for projects approved by simple majority of the company members:
-1. grant an open source license for the the company’s assets to the approved project’s organisation or director(s); and
-2. register a subdomain for the project, if requested.
-f. to pay out of the funds of the company the costs of forming and registering the company;
+28 Quorum for general meetings
 
+29 Facilitating general meetings
 
-### Application of income and property (6)
+30 Attendance and speaking by directors and non-members
 
-6. (1) The income and property of the company shall be applied solely towards the promotion of the Objects.
-(2)
-a. A director is entitled to be reimbursed from the property of the company or may pay out of such property reasonable expenses properly incurred by him or her when acting on behalf of the company.
-b. A director may benefit from trustee indemnity insurance cover purchased at the company’s expense.
-c. A director may receive an indemnity from the company in the circumstance specified in article 54.
-(3) None of the income or property of the company may be paid or transferred directly or indirectly by way of dividend bonus or otherwise by way of profit to any member of the company. This does not prevent a member who is also a director receiving:
-a. a benefit from the company in the capacity of a beneficiary of the company;
-b. reasonable and proper remuneration for any goods or services supplied to the company excluding remuneration for being a director of the company;
-(3) The accounts, property and digital assets of the company must have 2-3 members of the company acting as designated stewards at all times;
-In order to remove or appoint stewards’ administrative access to these assets, a vote by online poll with a voting period no shorter than 5 days or general meeting must be held and passed by a quorum of 50% company members.
-For appointed stewards to make significant transactions related to these assets, an online poll must be held with a voting period no shorter than 5 days. If members of the company are not able to access the internet, the stewards must make a documented effort to contact them by other means and inform them of the proposal.
-Significant transactions in (3)(b) entail financial transactions higher than £100 in cost, any change of administrative access, and transference of services.
+31 Adjournment
 
+32 Decisions at general meetings
 
-### Members (7)
+33 Poll votes
 
-7. (1) The subscribers to the memorandum are the first members of the company.
-(2) Membership is open to other individuals or organisations who:
-a. fulfill the criteria of the company’s time bank which stipulates 100 hours of work in service to the company that is:
-(i) publicly registered on the time bank; 
-(ii) not financially renumerated by the company;
-(iii) reviewed and validated by at least two company members; and
-(iv) approved by the directors.
-(3)
-a. The directors may refuse an application for membership if, acting reasonably and properly, they consider it to be in the best interests of the company to refuse the application.
-b. The directors must inform the applicant in writing of the reasons for the refusal within twenty-one days of the decision.
-c. The directors must consider any written representations the applicant may make about the decision. The directors decision following any written representations must be notified to the applicant in writing but shall be final.
-(4) Membership is not transferable.
-(5) The directors must keep a register of names and addresses of the members. 
-
-
-### Classes of membership (8)
-
-8. (1) The directors may establish classes of membership at general meetings only, with different rights and obligations and shall record the rights and obligations in the register of members.
-(2) The rights attached to a class of membership may only be varied if:
-a. a majority of the members of that class consent in writing to the variation; or
-b. a special resolution is passed at a separate general meeting of the members of that class agreeing to the variation.
-(3) The provisions in the articles about general meetings shall apply to any meeting relating to the variation of the rights of any class of members.
-
-
-### Termination of membership (9)
-
-9. Membership is terminated if:
-(1) the member dies or, if it is an organisation, ceases to exist;
-(2) the member resigns by written notice to the company unless, after the resignation there would be less than one member;
-(3) any sum due from the member to the company is not paid in full within six months of it falling due;
-(4) the member is removed from membership by a resolution of the members, requiring a super-majority of two thirds of those voting 
-(5) members by a super-majority of two-thirds voting that it is in the best interests of the company that his or her or its membership is terminated.
-(6) the member does not fulfill, within the previous calendar year of membership, the criteria of Article 7(2)a 
-(7) A resolution to remove a member from membership may only be passed if:
-a. the member has been given at least twenty-one days notice in writing of the meeting of the directors at which the resolution will be proposed and the reasons why it is to be proposed;
-b. the member or, at the option of the member, the member’s representative (who need not be a member of the company) has been allowed to make representations to the meeting.
+34 Content of proxy notices
 
+35 Delivery of proxy notices
 
-### General meetings (10)
+36 Means of communication to be used
 
-10. (1) The company must hold its first annual general meeting within eighteen months after the date of its incorporation.
-(2) An annual general meeting must be held in each subsequent year and not more than fifteen months may elapse between successive annual general meetings.
+Annexe A Statement on the Co‑operative Identity
 
-11. A General Meeting may be called at any time in accordance with the Companies Act requirements.
+### Defined terms
 
+**1.** In the articles, unless the context requires otherwise
 
-###  Notice of general meetings (12)
+**“The act”** means the Companies Acts (as defined in section 2 of the
+Companies Act 2006), in so far as they apply to the company;
 
-12. (1) The minimum periods of notice required to hold a general meeting of the company are:
-a. twenty-one clear days for an annual general meeting or a general meeting called for the passing of a special resolution;
-b. fourteen clear days for all other general meetings.
-(2) A general meeting may be called by shorter notice if it is so agreed by a majority in number of members having a right to attend and vote at the meeting, being a majority who together hold not less than 90 percent of the total voting rights.
-(3) The notice must specify the date, time and place of the meeting and the general nature of the business to be transacted. If the meeting is to be an annual general meeting, the notice must say so. The notice must also contain a statement setting out the right of members to appoint a proxy under section 324 of the Companies Act 2006 and article 19.
-(4) The notice must be given to all the members and to the directors and auditors.
+“**articles**” means the company’s articles of association;
 
-13. The proceedings at a meeting shall not be invalidated because a person who was entitled to receive notice of the meeting did not receive it because of an accidental omission by the company.
+“**bankruptcy**” includes individual insolvency proceedings in a
+jurisdiction other than England and Wales or Northern Ireland which have
+an effect similar to that of bankruptcy;
 
+“**the board of directors**” or “**board**” means all those persons
+appointed or delegated to perform the duties of directors of the
+co‑operative;
 
-### Proceedings at general meetings (14)
-
-14. (1) No business shall be transacted at any general meeting unless a quorum is present.
-(2) A quorum is one half of the total membership present in person or by proxy and entitled to vote upon the business to be conducted at the meeting.
-(3) The authorised representative of a member organisation shall be counted in the quorum.
-
-15. (1) If:
-a. a quorum is not present within half an hour from the time appointed for the meeting;
-b. or during a meeting a quorum ceases to be present;
-the meeting shall be adjourned to such time and place as the directors shall determine.
-(2) The directors must reconvene the meeting and must give at least seven clear days notice of the reconvened meeting stating the date, time and place of the meeting.
-(3) If no quorum is present at the reconvened meeting within fifteen minutes of the time specified for the start of the meeting the members present in person or by proxy at that time shall constitute the quorum for that meeting.
-
-16. General meetings shall be chaired by a member present at the meeting who shall be elected by the meeting, such election shall be the first order of business.
-
-17. (1) The members present in person or by proxy at a meeting may resolve by ordinary resolution that the meeting shall be adjourned.
-(2) The person who is chairing the meeting must decide the date, time and place at which the meeting is to be reconvened unless those details are specified in the resolution.
-(3) No business shall be conducted at a reconvened meeting unless it could properly have been conducted at the meeting had the adjournment not taken place.
-(4) If a meeting is adjourned by a resolution of the members for more than seven days, at least seven clear days notice shall be given of the reconvened meeting stating the date, time and place of the meeting.
-
-18. (1) Any vote at a meeting shall be decided by a show of hands unless before, or on the declaration the result of, the show of hands a poll is demanded:
-a. by the person chairing the meeting; or
-b. by at least two members present in person or by proxy and having the right to vote at the meeting; or
-c. by a member or members present in person or by proxy representing not less than one-tenth of the total voting rights of all the members having the right to vote at the meeting.
-(2)
-a. The declaration by the person who is chairing the meeting of the result of a vote shall be conclusive unless a poll is demanded.
-b. The result of the vote must be recorded in the minutes of the company and the number or proportion of votes cast must be recorded.
-(3)
-a. A demand for a poll may be withdrawn, before the poll is taken, but only with the consent of the person who is chairing the meeting.
-b. If the demand for a poll is withdrawn the demand shall not invalidate the result of a show of hands declared before the demand was made.
-(4)
-a. A poll must be taken as the person who is chairing the meeting directs, who may appoint scrutineers (who need not be members) and who may fix a time and place for declaring the results of the poll.
-b. The result of the poll shall be deemed to be the resolution of the meeting at which the poll is demanded.
-(5)
-a. A poll demanded on the election of a person to chair a meeting or on a question of adjournment must be taken immediately.
-b. A poll demanded on any other question must be taken either immediately or at such time and place as the person who is chairing the meeting directs.
-c. The poll must be taken within thirty days after it has been demanded.
-d. If the poll is not taken immediately at least seven clear days notice shall be given specifying the time and place at which the poll is to be taken.
-e. If a poll is demanded the meeting may continue to deal with any other business that may be conducted at the meeting.
-
-
-### Content of proxy notices (19)
-
-19. (1) Proxies may only validly be appointed by a notice in writing (a proxy notice) which:
-a. states the name and address of the member appointing the proxy;
-b. identifies the person appointed to be that member’s proxy and the general meeting in relation to which that person is appointed;
-c. is signed by or on behalf of the member appointing the proxy, or is authenticated in such manner as the directors may determine; and
-d. is delivered to the company in accordance with the articles and any instructions contained in the notice of the general meeting to which they relate.
-(2) The company may require proxy notices to be delivered in a particular form, and may specify different forms for different purposes.
-(3) Proxy notices may specify how the proxy appointed under them is to vote (or that the proxy is to abstain from voting) on one or more resolutions.
-(4) Unless a proxy notice indicates otherwise, it must be treated as:
-a. allowing the person appointed under it as a proxy discretion as to how to vote on any ancillary or procedural resolutions put to the meeting; and
-b. appointing that person as a proxy in relation to any adjournment of the general meeting to which it relates as well as the meeting itself.
-
-
-### Delivery of proxy notices (20)
-
-20. (A)
-(1) A person who is entitled to attend, speak or vote (either on a show of hands or on a poll) at a general meeting remains so entitled in respect of that meeting or any adjournment of it, even though a valid proxy notice has been delivered to the company by or on behalf of that person.
-(2) An appointment under a proxy notice may be revoked by delivering to the company a notice in writing given by or on behalf of the person by whom or on whose behalf the proxy notice was given.
-(3) A notice revoking a proxy appointment only takes effect if it is delivered before the start of the meeting or adjourned meeting to which it relates.
-(4) If a proxy notice is not executed by the person appointing the proxy, it must be accompanied by written evidence of the authority of the person who executed it to execute it on the appointer’s behalf.
-
-
-### Written resolutions (21)
-
-21. (1) A resolution in writing agreed by a simple majority (or in the case of a special resolution by a majority of not less than 75%) of the members who would have been entitled to vote upon it had it been proposed at a general meeting shall be effective provided that:  
-a. a copy of the proposed resolution has been sent to every eligible member;  
-b. a simple majority (or in the case of a special resolution a majority of not less than 75%) of members has signified its agreement to the resolution; and  
-c. it is contained in an authenticated document which has been received at the registered office within the period of 28 days beginning with the circulation date.  
-(2) A resolution in writing may comprise several copies to which one or more members have signified their agreement.  
-(3) In the case of a member that is an organisation, its authorised representative may signify its agreement.
-
-
-### Votes of members (22)
-
-22. Subject to article 8, every member, whether an individual, special class of member, or an organisation, shall have one vote.
-
-23. Any objection to the qualification of any voter must be raised at the meeting at which the vote is tendered and the decision must be reached according to the voting procedure of article 18.
-
-24. (1) Any organisation that is a member of the company may nominate any person to act as its representative at any meeting of the company.   
-(2) The organisation must give written notice to the company of the name of its representative. The representative shall not be entitled to represent the organisation at any meeting unless the notice has been received by the company. The representative may continue to represent the organisation until written notice to the contrary is received by the company.  
-(3) Any notice given to the company will be conclusive evidence that the representative is entitled to represent the organisation or that his or her authority has been revoked. The company shall not be required to consider whether the representative has been properly appointed by the organisation.
-
-
-### Directors (25)
-
-25. (1) A director must be a natural person aged 16 years or older.  
-(2) No one may be appointed a director if he or she would be disqualified from acting under the provisions of article 36.
-
-26. The number of directors shall be not less than one but (unless otherwise determined by ordinary resolution) shall not be subject to any maximum.
-
-27. The first directors shall be those persons notified to Companies House as the first directors of the company.
-
-28. A director may not appoint an alternate director or anyone to act on his or her behalf at meetings of the directors.
-
-
-### Powers of directors (29)
-
-29. (1) The directors shall manage the business of the company and may exercise all the powers of the company unless they are subject to any restrictions imposed by the Companies Acts, the articles or any special resolution.
-(2) No alteration of the articles or any special resolution shall have retrospective effect to invalidate any prior act of the directors.
-(3) Any meeting of directors at which a quorum is present at the time the relevant decision is made may exercise all the powers exercisable by the directors.
-
-
-### Retirement of directors (30)
-
-30. At the first annual general meeting all the directors must retire from office unless by the close of the meeting the members have failed to elect sufficient directors to hold a quorate meeting of the directors. At each subsequent annual general meeting one-third of the directors or, if their number is not three or a multiple of three, the number nearest to one-third, must retire from office.  If there is only one director he or she must retire.
-
-31. (1) The directors to retire by rotation shall be those who have been longest in office since their last appointment. If any directors became or were appointed directors on the same day those to retire shall (unless they otherwise agree among themselves) be determined by lot.
-(2) If a director is required to retire at an annual general meeting by a provision of the articles the retirement shall take effect upon the conclusion of the meeting.
-
-
-### Appointment of directors (32)
-
-32. The members of the company may by votes at a general meeting:
-(1) appoint a person who is willing to act to be a director; and
-(2) determine the rotation in which any additional directors are to retire.
-
-33. No person other than a director retiring by rotation may be appointed a director at any general meeting unless:
-(1) he or she is recommended for re-election by the members; or
-(2) not less than fourteen nor more than thirty-five clear days before the date of the meeting, the company is given a notice that:
-a. is signed by a member entitled to vote at the meeting;
-b. states the member’s intention to propose the appointment of a person as a director;
-c. contains the details that, if the person were to be appointed, the company would have to file at Companies House; and
-d. is signed by the person who is to be proposed to show his or her willingness to be appointed.
-
-34. (1) All members who are entitled to receive notice of a general meeting must be given not less than seven nor more than twenty-eight clear days notice of any resolution to be put to the meeting to appoint a director other than a director who is to retire by rotation.
-(2) The directors may not appoint a temporary director. If, upon disqualification or retirement, the company has less than three directors, members may call an extraordinary general meeting to appoint a director in the interim period or else elect a new director by ordinary resolution. 
-
-35. The appointment of a director, whether by the company in general meeting or by the other directors, must not cause the number of directors to exceed any number fixed as the maximum number of directors.
-
-
-### Disqualification and removal of directors (36)
-
-36. A director shall cease to hold office if he or she:
-(1) ceases to be a director by virtue of any provision in the Companies Acts or is prohibited by law from being a director;
-(2) becomes incapable by reason of mental disorder, illness or injury of managing and administering his or her own affairs;
-(3) resigns as a director by notice to the company (but only if at least one director will remain in office when the notice of resignation is to take effect); or
-(4) is absent without the permission of the directors from all their meetings held within a period of six consecutive months and the directors resolve that his or her office be vacated.
-(5) ceases to act within and in service to the Objects of the company, as determined by a super-majority of two thirds of those voting.
-
-
-### Remuneration of directors (37)
-
-37. The directors may be paid reasonable and proper remuneration subject to article 6.
-
-
-Proceedings of directors (38)
-
-38. (1) The directors may regulate their proceedings as they think fit, subject to the provisions of the articles.
-(2) Any director may call a meeting of the directors, and company members must be given notice of the meeting in accordance with Article 51.
-(3) The secretary (if any) must call a meeting of the directors if requested to do so by a director.
-(4) Questions arising at a meeting shall be decided by a majority of votes.
-(5) In the case of an equality of votes, the person who is chairing the meeting shall have a second or casting vote.
-(6) A meeting may be held by suitable electronic means agreed by the directors in which each participant may communicate with all the other participants.
-(7) The minutes of the meeting must be available for company members to review within 7 days.
-
-39. (1) No decision may be made by a meeting of the directors unless a quorum is present at the time the decision is purported to be made. Present includes being present by suitable electronic means agreed by the directors in which a participant or participants may communicate with all the other participants.
-(2) The quorum shall be one or the number nearest to one-half of the total number of directors, whichever is the greater, or such larger number as may be decided from time to time by the directors.
-(3) A director shall not be counted in the quorum present when any decision is made about a matter upon which that director is not entitled to vote.
-
-40. If the number of directors is less than the number fixed as the quorum, the continuing directors or director may act only for the purpose of filling vacancies or of calling a general meeting.
-
-41. (1) The directors shall appoint a person to chair their meetings and may at any time revoke such appointment.
-(2) If no-one has been appointed to chair meetings of the directors or if the person appointed is unwilling to preside or is not present within ten minutes after the time appointed for the meeting, the continuing directors or director may act only for the purpose of calling a general meeting.
-(3) The person appointed to chair meetings of the directors shall have no functions or powers except those conferred by the articles or delegated to him or her by the directors.
-
-42. (1) A resolution in writing or in electronic form agreed by a simple majority of all the directors entitled to receive notice of a meeting of directors or of a committee of directors and to vote upon the resolution shall be as valid and effectual as if it had been passed at a meeting of the directors or (as the case may be) a committee of directors duly convened and held provided that:
-a. a copy of the resolution is sent or submitted to all the members eligible to vote; and
-b. members of the company are given proper notice of the resolution and a 7 day period to request that the decision reached at a meeting of the directors must be reviewed, and therefore the resolution must not be passed until the reasonable review process proposed by the member has been enacted;
-c. the review process of directors’ resolutions must take place and conclude within 14 days of its proposal;
-d. a simple majority of members has signified its agreement to the resolution in an authenticated document or documents which are received at the registered office within the period of 28 days beginning with the circulation date.
-(2) The resolution in writing may comprise several documents containing the text of the resolution in like form to each of which one or more directors has signified their agreement.
-
-
-### Delegation (43)
-
-43. (1) The directors may delegate any of their powers or functions to a committee of two or more directors but the terms of any delegation must be recorded in the minute book.
-(2) The directors may impose conditions when delegating, including the conditions that:
-a. the relevant powers are to be exercised exclusively by the committee to whom they delegate;
-b. no expenditure may be incurred on behalf of the company except in accordance with a budget previously agreed with the directors.
-(3) The directors may revoke or alter a delegation.
-(4) All acts and proceedings of any committees must be fully and promptly reported to the directors.
-
-
-### Declaration of directors interests (44)
-
-44. A director must declare the nature and extent of any interest, direct or indirect, which he or she has in a proposed transaction or arrangement with the company or in any transaction or arrangement entered into by the company which has not previously been declared.
-
-
-### Validity of directors decisions (45)
-
-45. (1) Subject to article 45(2), all acts done by a meeting of directors, or of a committee of directors, shall be valid notwithstanding the participation in any vote of a director:
-a. who was disqualified from holding office;
-b. who had previously retired or who had been obliged by the constitution to vacate office;
-c. who was not entitled to vote on the matter, whether by reason of a conflict of interests or otherwise;
-if without:
-a. the vote of that director; and
-b. that director being counted in the quorum;
-c. the decision has been made by a majority of the directors at a quorate meeting.
-(2) Article 45 (1) does not permit a director or a connected person to keep any benefit that may be conferred upon him or her by a resolution of the directors or of a committee of directors if, but for article 45 (1), the resolution would have been void, or if the director has not complied with article.
-
-
-### Seal (56)
-
-46. If the company has a seal it must only be used by the authority of the directors or of a committee of directors authorised by the directors. The directors may determine who shall sign any instrument to which the seal is affixed and unless otherwise so determined it shall be signed by at least one director.
-
-
-### Minutes (47)
-
-47. The directors must keep minutes of all appointments of officers made by the directors;
-(1) proceedings at meetings of the company;
-(2) meetings of the directors and committees of directors including:
-a. the names of the directors present at the meeting;
-b. the decisions made at the meetings; and
-c. where appropriate the reasons for the decisions.
-
-
-### Accounts (48)
-
-48. (1) The directors must prepare for each financial year accounts as required by the Companies Acts.
-(2) The directors must keep accounting records as required by the Companies Acts.
-(3) The directors must publicly post open accounting records every 90 days.
-(4) The directors must provide accounting records within 14 days publicly upon request by any member of the company, and records must comply with open financial data standards.
-
-
-
-### Means of communication to be used (49)
-
-49. (1) Subject to the articles, anything sent or supplied by or to the company under the articles may be sent or supplied in any way in which the Companies Act 2006 provides for documents or information which are authorised or required by any provision of that Act to be sent or supplied by or to the company.
-(2) Subject to the articles, any notice or document to be sent or supplied to a director in connection with the taking of decisions by directors may also be sent or supplied by the means by which that director has asked to be sent or supplied with such notices or documents for the time being.
-
-50. Any notice to be given to or by any person pursuant to the articles:
-(1) must be in writing; or
-(2) must be given in electronic form.
-
-51. The company may give any notice to a member either:
-a. personally; or
-b. by sending it by post in a prepaid envelope addressed to the member at his or her address; or
-c. by leaving it at the address of the member; or
-d. by giving it in electronic form to the member’s address.
-
-52. A member present in person at any meeting of the company shall be deemed to have received notice of the meeting and of the purposes for which it was called.
-
-53. (1) Proof that an envelope containing a notice was properly addressed, prepaid and posted shall be conclusive evidence that the notice was given.
-(2) Proof that an electronic form of notice was given shall be conclusive where the company can demonstrate that it was properly addressed and sent, in accordance with section 1147 of the Companies Act 2006.
-(3) In accordance with section 1147 of the Companies Act 2006 notice shall be deemed to be given:
-a. 48 hours after the envelope containing it was posted; or
-b. in the case of an electronic form of communication, 48 hours after it was sent.
-
-
-### Indemnity (54)
-
-54. (1) The company shall indemnify any director against any liability incurred by him or her in that capacity, to the extent permitted by sections 232 to 234 of the Companies Act 2006.
-(2) In this article a relevant director means any director or former director of the company.
-
-
-### Rules (55)
-
-55. (1) The directors may from time to time make such reasonable and proper rules or bye laws as they may deem necessary or expedient for the proper conduct and management of the company.
-(2) The bye laws may regulate the following matters but are not restricted to them:
-a. the admission of members of the company (including the admission of organisations to membership) and the rights and privileges of such members, and the entrance fees, subscriptions and other fees or payments to be made by members;
-b. the conduct of members of the company in relation to one another, and to the company’s employees and volunteers;
-c. the setting aside of the whole or any part or parts of the company’s premises at any particular time or times or for any particular purpose or purposes;
-d. the procedure at general meetings and meetings of the directors in so far as such procedure is not regulated by the Companies Acts or by the articles;
-e. generally, all such matters as are commonly the subject matter of company rules.
-(3) The company in general meeting has the power to alter, add to or repeal the rules or bye laws.
-(4) The directors must abide by the terms outlined in in article 53  to bring the rules and bye laws to the notice of members of the company within 7 days of their resolution and subject to review as stated in article 42(1).
-(5) The rules or bye laws shall be binding on all members of the company. No rule or bye law shall be inconsistent with, or shall affect or repeal anything contained in, the articles.
+“**Companies Acts**” means the Companies Acts (as defined in section 2
+of the Companies Act 2006), in so far as they apply to the company;
+
+“**consensus**” means a decision made to which all parties explicitly
+agree to being implemented.
+
+“**the co‑operative**” means the above named company;
+
+“**The Co‑operative Principles**” means the principles as defined from
+time to time by the International Co‑operative Alliance and contained in
+their Statement of Co‑operative Identity. These are reproduced in Annexe
+A;
+
+“**The Co‑operative Values**” means the values as defined from time to
+time by the International Co‑operative Alliance and contained in their
+Statement of Co‑operative Identity. These are reproduced in Annexe A;
+
+“**director**” means a director of the co‑operative;
+
+“**facilitator**” has the meaning given in article 14 and article 30
+respectively;
+
+“**member**” has the meaning given in section 112 of the Companies Act
+2006;
+
+**“ordinary resolution”** has the meaning given in section 281 of the
+Companies Act 2006.
+
+“**participate**”, in relation to a directors’ meeting, has the meaning
+given in article 12;
+
+“**proxy notice**” has the meaning given in article 35;
+
+**“special resolution”** is a resolution passed at a meeting or as a
+written resolution and the notice of the meeting included the text of
+the resolution and specified the intention to propose the resolution as
+a special resolution, and requires a 75% majority of those members
+present and eligible to vote. In any vote on a special resolution each
+member shall have one vote.
+
+Unless the context otherwise requires, other words or expressions
+contained in these articles bear the same meaning as in the Companies
+Act 2006 as in force on the date when these articles become binding on
+the co‑operative.
+
+### Purpose of the co‑operative and application of income and property of the co‑operative
+
+**2. (1)** The objects for which the co‑operative is established are:
+
+> <span id="__DdeLink__2301_1150071006" class="anchor"></span>**(a)**
+> Fostering the adoption of a variant of the monastic rule as a method
+> for fostering community development, stability and harmony.
+>
+> **(b)** Marshalling people and resources to effectively manage
+> residential spaces that contribute to building sustainable healthy
+> communities and developing projects within the context of that
+> paradigm.
+>
+> **(c)** To abide by and implement the co‑operative values and the
+> co‑operative principles; support and encourage the growth of the
+> co‑operative movement; promote the co‑operative principles,
+> enterprises and activities. To encourage equality and democratic
+> control over the workplace.
+>
+> **(d)** To advance the education of its members in co‑operative
+> principles and practice, and to promote the physical, emotional and
+> mental well-being of members of the co‑operative and its subsidiaries
+> by making membership satisfying and useful.
+>
+> **(e)** To have regard to promoting the physical emotional and mental
+> well-being of the community generally, including those persons who, as
+> customers or suppliers of the co‑operative, as residents residing in
+> the area where the co‑operative is trading, or as participants in
+> other enterprises engaged in similar trading, may be affected by the
+> co‑operative’s activities.
+>
+> **(f)** To carry on any trade or business whatever which can in the
+> opinion of the directors of the co‑operative be advantageously carried
+> on in connection with or ancillary to any of the objects and
+> activities of the co‑operative.
+>
+> **(g)** To do all such other activities, enterprises, projects or
+> ventures which can, in the opinion of the directors of the
+> co‑operative, be deemed incidental or conducive (either directly or
+> indirectly) to the attainment of the objects of the co‑operative or
+> any of them.
+
+**(2)** The income and property of the co‑operative however derived
+shall be applied solely towards the promotion of the objects of the
+co‑operative as set out herein and no portion shall be paid or
+transferred directly or indirectly to the members of the co‑operative
+except by way of payment in good faith to any member of the co‑operative
+in return for services actually rendered to the co‑operative, of
+reasonable wages, bonuses and repayments of expenses, interest on money
+lent or reasonable rent on premises demised or let to the co‑operative.
+Interest paid by the co‑operative on money borrowed from members shall
+not exceed such rate as is necessary to attract and retain the capital
+required to further the co‑operative’s objects.
+
+**(3)** This article is entrenched in accordance with section 22 of the
+Act and any alteration to the article requires the approval of 75% of
+the members.
+
+### Profit of the co‑operative
+
+**3. (1)** The profit of the co‑op shall be applied as follows, in such
+proportion and in such manner as the General Meeting shall decide from
+time to time:
+
+> **(a)** To a general reserve for the continuation and development of
+> the co‑operative;
+>
+> **(b)** To a bonus to all members in proportion to the hours donated
+> with the co‑operative according to a formula to be applied equally to
+> all members;
+>
+> **(c)** To promote and assist the formation of new workers’
+> co‑operatives or common ownership enterprises by donation to such
+> co‑operatives or common ownership enterprises, or to common funds to
+> be used exclusively for their benefit;
+>
+> **(d)** To make payments for social, co‑operative, community or
+> charitable objects.
+
+**(2)** This article is entrenched in accordance with section 22 of the
+Act and any alteration to the article requires the approval of 75% of
+the members.
 
 ### Dissolution
 
-56. If the Company is wound up or dissolved and after all its debts and liabilities have been satisfied there remains any property it shall not be paid to or distributed among the members of the Company, but shall be given or transferred to some other company or charities having objects similar to the Objects and which prohibits the distribution of its or their income and property to an extent at least as great as is imposed on the Company by article 6, chosen by the members of the Company at or before the time of dissolution and if that cannot be done then to some other not for profit object or as directed by the Court.
+**4. (1)** In the event of wind up or dissolution of the co‑operative
+the liquidator shall, according to the law, use the assets of the
+co‑operative to satisfy its debts and liabilities. Any balance of assets
+remaining must not be distributed among the members of the co‑operative
+but shall be transferred by the liquidator to one or several of the
+following:
 
+> **(a)** A co‑operative or common ownership enterprise having aims
+> similar or compatible to those of the co‑operative, and which shall
+> prohibit the distribution of its income among its membership to an
+> extent at least as great as is imposed on the co‑operative under
+> Article 2;
+>
+> **(b)** A fund maintained for the benefit or promotion of common
+> ownership enterprises;
+>
+> **(c)** A charity or charities having aims similar or compatible to
+> those of the co‑operative in such a manner as the members decide at or
+> before the time of winding up or dissolution.
 
+**(2)** This article is entrenched in accordance with section 22 of the
+Act and any alteration to the article requires the approval of 75% of
+the members.
+
+### Liability of members
+
+**5.** The liability of each member is limited to £500, being the amount
+that each member undertakes to contribute to the assets of the
+co‑operative in the event of its being wound up while she or he is a
+member or within one year after she or he ceases to be a member, for:
+
+> **(a)** payment of the co‑operative’s debts and liabilities contracted
+> before she or he ceases to be a member,
+>
+> **(b)** payment of the costs, charges and expenses of winding up, and
+>
+> **(c)** adjustment of the rights of the contributories among
+> themselves.
+
+### Directors’ general authority
+
+**6.** Subject to the articles, the directors are responsible for the
+management of the co‑operative’s business, for which purpose they may
+exercise all the powers of the co‑operative.
+
+### Members’ reserve power
+
+**7. (1)** The members may, by special resolution at a general meeting
+direct the directors to take, or refrain from taking, specified action.
+
+**(2)** No such special resolution invalidates anything which the
+directors have done before the passing of the resolution.
+
+**(3)** This article is entrenched in accordance with section 22 of the
+Act and any alteration to the article requires the approval of 75% of
+the members.
+
+### Directors may delegate
+
+**8. (1)** Subject to the articles, the directors may delegate any of
+the powers which are conferred on them under the articles
+
+> **(a)** to such person or committee;
+>
+> **(b)** by such means (including by power of attorney);
+>
+> **(c)** to such an extent;
+>
+> **(d)** in relation to such matters or territories; and
+>
+> **(e)** on such terms and conditions;
+
+as they think fit.
+
+**(2)** If the directors so specify, any such delegation may authorise
+further delegation of the directors’ powers by any person to whom they
+are delegated.
+
+**(3)** The directors may revoke any delegation in whole or part, or
+alter its terms and conditions.
+
+### Committees
+
+**9. (1)** Committees to which the directors delegate any of their
+powers must follow procedures which are based as far as they are
+applicable on those provisions of the articles which govern the taking
+of decisions by directors.
+
+**(2)** The directors may make rules of procedure for all or any
+committees, which prevail over rules derived from the articles if they
+are not consistent with them.
+
+### Directors’ decisions
+
+**10. (1)** Any decision of the directors must be taken by consensus.
+
+**(2)** Such a decision may take the form of a resolution in writing,
+copies of which have been signed by each eligible director or to which
+each eligible director has otherwise indicated agreement in writing.
+
+**(3)** Exact procedures for reaching consensus shall be decided from
+time to time by the directors or by a decision of the co‑operative in
+general meeting.
+
+**(4)** When deciding procedures for reaching consensus the directors
+may include an option of taking a vote in case of directors’ inability
+to reach any decision by consensus.
+
+**(5)** This article is entrenched in accordance with section 22 of the
+Act and any alteration to the article requires the approval of 75% of
+the members.
+
+### Calling a directors’ meeting
+
+**11. (1)** Any director may call a directors’ meeting by giving notice
+of the meeting to the directors and members.
+
+**(2)** Notice of any directors’ meeting must indicate:
+
+> **(a)** its proposed date and time;
+>
+> **(b)** where it is to take place; and
+>
+> **(c)** if it is anticipated that directors participating in the
+> meeting will not be in the same place, how it is proposed that they
+> should communicate with each other during the meeting.
+
+**(3)** Notice of a directors’ meeting must be given to each director
+and member in writing.
+
+**(4)** Notice of a directors’ meeting need not be given to directors
+who waive their entitlement to notice of that meeting, by giving notice
+to that effect to the co‑operative not more than 7 days after the date
+on which the meeting is held. Where such notice is given after the
+meeting has been held, that does not affect the validity of the meeting,
+or of any business conducted at it.
+
+### Participation in directors’ meetings
+
+**12. (1)** Subject to the articles, directors participate in a
+directors’ meeting, or part of a directors’ meeting, when:
+
+> **(a)** the meeting has been called and takes place in accordance with
+> the articles, and
+>
+> **(b)** they can each communicate to the others any information or
+> opinions they have on any particular item of the business of the
+> meeting.
+>
+> **(2)** In determining whether directors are participating in a
+> directors’ meeting, it is irrelevant where any director is or how they
+> communicate with each other.
+>
+> **(3)** If all the directors participating in a meeting are not in the
+> same place, they may decide that the meeting is to be treated as
+> taking place wherever any of them is.
+
+### Quorum for directors’ meetings
+
+**13. (1)** At a directors’ meeting, unless a quorum is participating,
+no proposal is to be decided on, except a proposal to call another
+meeting.
+
+**(2)** The quorum for directors’ meetings may be fixed from time to
+time by a decision of the co‑operative in general meeting, but it must
+never be less than 50% of the directors or two, whichever is greater.
+
+**(3)** If the total number of directors for the time being is less than
+the two, the directors must not take any decision other than a decision
+to call a general meeting so as to enable the members to appoint further
+directors.
+
+### Facilitation of directors’ meetings
+
+**14. (1)** The directors may appoint a member to facilitate their
+meetings.
+
+**(2)** The person so appointed for the time being is known as the
+facilitator.
+
+**(3)** The directors may terminate the facilitator’s appointment at any
+time.
+
+**(4)** If the facilitator is not participating in a directors’ meeting
+within ten minutes of the time at which it was to start, the
+participating directors may appoint one of themselves to facilitate it.
+
+### Conflicts of interest
+
+**15. (1)** If a proposed decision of the directors is concerned with an
+actual or proposed transaction or arrangement with the co‑operative in
+which a director is interested, that director is not to be counted as
+participating in that part of the meeting for quorum or decision making
+purposes.
+
+**(2)** But if paragraph **(3)** applies, a director who is interested
+in an actual or proposed transaction or arrangement with the
+co‑operative is to be counted as participating in the decision making
+process for quorum and decision making purposes.
+
+**(3)** This paragraph applies when
+
+**(a)** the board decides to disapply the provision of the articles
+which would otherwise prevent a director from being counted as
+participating in the decision making process;
+
+**(b)** the director’s interest cannot reasonably be regarded as likely
+to give rise to a conflict of interest; or
+
+**(c)** the director’s conflict of interest arises from a permitted
+cause.
+
+**(4)** For the purposes of this article, the following are permitted
+causes
+
+**(a)** a guarantee given, or to be given, by or to a director in
+respect of an obligation incurred by or on behalf of the co‑operative or
+any of its subsidiaries;
+
+**(b)** subscription, or an agreement to subscribe, for securities of
+the co‑operative or any of its subsidiaries, or to underwrite,
+sub-underwrite, or guarantee subscription for any such securities; and
+
+**(c)** arrangements pursuant to which benefits are made available to
+members and directors or former members and directors of the
+co‑operative or any of its subsidiaries which do not provide special
+benefits for directors or former directors.
+
+**(5)** For the purposes of this article, references to proposed
+decisions and decision making processes include any directors’ meeting
+or part of a directors’ meeting.
+
+**(6)** If a question arises at a meeting of directors or of a committee
+of directors as to the right of a director to participate in the meeting
+(or part of the meeting) for decision making or quorum purposes, the
+question may, before the conclusion of the meeting, be decided upon by
+the board.
+
+### Directors’ discretion to make further rules
+
+**16.** Subject to the articles, the co‑operative in general meeting or
+the board of directors may make any rule which they think fit about the
+running of the co‑operative.
+
+**(1)** The secondary rules or bye-laws may regulate the following
+matters but are not restricted to them
+
+> **(a)** the admission of members of the company (including the
+> admission of organisations to membership) and the rights and
+> privileges of such members, and the entrance fees, subscriptions and
+> other fees or payments to be made by members;
+>
+> **(b)** the conduct of members of the company in relation to one
+> another, and to the company’s employees and volunteers;
+>
+> **(c)** the setting aside of the whole or any part or parts of the
+> company’s premises at any particular time or times or for any
+> particular purpose or purposes;
+>
+> **(d)** the procedure at general meetings and meetings of the
+> directors in so far as such procedure is not regulated by the
+> Companies Acts or by the articles;
+>
+> **(e)** generally, all such matters as are commonly the subject matter
+> of company rules.
+
+### Methods of appointing directors
+
+**17. (1)** Only Members of the co‑operative who are permitted by law to
+do so may be appointed to be a director. Directors shall be appointed by
+decision of a general meeting of members of the co‑operative.
+
+**(2)** This article is entrenched in accordance with section 22 of the
+Act and any alteration to the article requires the approval of 75% of
+the members.
+
+### Termination of director’s appointment
+
+**18.** A person ceases to be a director as soon as
+
+> **(a)** that person ceases to be a director by virtue of any provision
+> of the Companies Act 2006 or is prohibited from being a director by
+> law;
+>
+> **(b)** a composition is made with that person’s creditors generally
+> in satisfaction of that person’s debts;
+>
+> **(c)** a registered medical practitioner who is treating that person
+> gives a written opinion to the co‑operative stating that that person
+> has become physically or mentally incapable of acting as a director
+> and may remain so for more than three months;
+>
+> **(d)** by reason of that person’s mental health, a court makes an
+> order which wholly or partly prevents that person from personally
+> exercising any powers or rights which that person would otherwise
+> have;
+>
+> **(e)** notification is received by the co‑operative from the director
+> that the director is resigning from office, and such resignation has
+> taken effect in accordance with its terms;
+>
+> **(f)** that person ceases to be a member of the co‑operative;
+>
+> **(g)** that person is removed from office by an ordinary resolution
+> of the co‑operative in general meeting in accordance with these
+> articles and the Companies Acts.
+
+### Directors’ remuneration
+
+**19. (1)** Directors may undertake any services for the co‑operative
+that the board decides.
+
+**(2)** Directors are entitled to such remuneration as the members
+determine by simple majority
+
+> **(a)** for their services to the co‑operative as directors, and
+>
+> **(b)** for any other service which they undertake for the
+> co‑operative.
+
+**(3)** Subject to the articles, a director’s remuneration may
+
+> **(a)** take any form, and
+>
+> **(b)** include any arrangements in connection with the payment of a
+> pension, allowance or gratuity, or any death, sickness or disability
+> benefits, to or in respect of that director.
+
+### Directors’ expenses
+
+**20.** The co‑operative may pay any reasonable expenses which the
+directors properly incur in connection with their attendance at
+
+> **(a)** meetings of directors or committees of directors,
+>
+> **(b)** general meetings, or
+>
+> **(c)** separate meetings of the holders of debentures of the
+> co‑operative, or otherwise in connection with the exercise of their
+> powers and the discharge of their responsibilities in relation to the
+> co‑operative.
+
+### Accounts
+
+**21. (1)** The Directors must prepare for each financial year accounts
+as required by the Act. The accounts must be prepared to show a true and
+fair view
+
+**(2)** The Directors must keep accounting records as required by the
+Act.
+
+**(3)** Accounts shall always be open to the inspection of all members
+and other persons authorised by the co‑operative in a general meeting.
+The directors must provide accounting records publicly within 14 days
+upon request by any member of the company.\
+**(4)** Financial records must comply with open data standards as
+defined by the co-operative.
+
+### Membership
+
+**22. (1)** Only individuals meeting the criteria stated in the bye-laws
+of the co‑operative may be members. However:
+
+> **(a)** newly approved members may be excluded from membership during
+> such reasonable probationary period as agreed by the co‑operative in
+> general meeting or as determined in the bye-laws; The period of
+> probation may be extended at the discretion of the co‑operative in
+> general meeting.
+>
+> **(b)** and members volunteering less than a prescribed number of
+> hours per year may be excluded from membership provided that any
+> prescribed number of hours volunteered are applied equally to all
+> members.
+
+**(2)** This article is entrenched in accordance with section 22 of the
+Act and any alteration to the article requires the approval of 75% of
+the members.
+
+**23. (1)** Members agree to take an active interest in the running of
+the co‑operative, including but not limited to attendance at general
+meetings**.**
+
+**(2)** This article is entrenched in accordance with section 22 of the
+Act and any alteration to the article requires the approval of 75% of
+the members.
+
+**24. (1)** A person ceases to be a member as soon as:
+
+> **(a)** the member ceases to meet the criteria of membership stated in
+> the bye-laws of the co‑operative; or
+>
+> **(b)** notification is received by the co‑operative from the member
+> that the member is resigning; or
+>
+> **(c)** subject to any disciplinary procedure adopted by the
+> co‑operative that person’s membership is terminated by a resolution of
+> the co‑operative in general meeting provided that the concerned member
+> shall be given not less than twenty-eight days notice of the date,
+> time and place of the meeting and the alleged conduct notifying the
+> member of his/her or its rights to attend the meeting and to make
+> representations to it; or
+>
+> **(d)** that person dies.
+
+**(2)** This article is entrenched in accordance with section 22 of the
+Act and any alteration to the article requires the approval of 75% of
+the members.
+
+### General Meetings
+
+**25. (1)** In the case that not all members are directors of the
+co‑operative, there shall be held at least one general meeting annually.
+
+**(2)** Members in general meeting may require directors to prepare and
+present to the members such regular financial reports, results and cash
+flow predictions showing the current financial position of the
+co‑operative.
+
+**(3)** Members in general meeting may require directors to prepare and
+present to the members such accounts of the co‑operatives activities as
+to measure the social, co‑operative, environmental and ethical impact of
+the co‑operative’s activities.
+
+**(4)** All members in general meeting shall have the opportunity to
+review the management of the business and the general meeting shall
+ensure that the co‑operative is functioning in accordance with the
+co‑operative values and principles.
+
+### Calling a general meeting
+
+**26. (1)** The board of directors may call a general meeting
+
+**(2)** The members may require the directors to call a general meeting
+of the co‑operative. The directors are required to call a general
+meeting once the co‑operative has received requests to do so from at
+least 10% of members.
+
+**(3)** A request for a general meeting from at least 10% of members may
+specify
+
+**(a)** its date and time; and
+
+**(b)** where it is to take place.
+
+### Attendance and speaking at general meetings
+
+**27. (1)** A person is able to exercise the right to speak at a general
+meeting when that person is in a position to communicate to all those
+attending the meeting, during the meeting, any information or opinions
+which that person has on the business of the meeting.
+
+**(2)** A person is able to exercise the right to participate in
+decision making at a general meeting when
+
+> **(a)** that person is able to participate in decision making during
+> the meeting on resolutions raised at the meeting, and
+>
+> **(b)** that person’s participation in the decision making process can
+> be taken into account in determining whether or not such resolutions
+> are passed at the same time as the decision is being made by all the
+> other persons attending the meeting.
+
+**(3)** The co‑operative in general meeting may make whatever
+arrangements it considers appropriate to enable those attending a
+general meeting to exercise their rights to speak or participate in the
+decision making at it.
+
+**(4)** In determining attendance at a general meeting, it is immaterial
+whether any two or more members attending it are in the same place as
+each other.
+
+**(5)** Two or more persons who are not in the same place as each other
+attend a general meeting if their circumstances are such that if they
+have (or were to have) rights to speak and participate in decision
+making at that meeting, they are (or would be) able to exercise them.
+
+### Quorum for general meetings
+
+**28. (1)** No business is to be transacted at a general meeting if the
+persons attending it, or represented by proxy, do not constitute a
+quorum.
+
+**(2)** The quorum for general meetings may be fixed from time to time
+by a decision of the co‑operative in general meeting, but it must never
+be less than 50% of the members or three members, whichever is greater.
+If at the time of a general meeting the co‑operative has less than three
+members then the quorum shall be all members.
+
+### Facilitating general meetings
+
+**29. (1)** The meeting must appoint a member to facilitate the meeting,
+and the appointment of the facilitator of the meeting must be the first
+business of the meeting.
+
+**(2)** The person facilitating a meeting in accordance with this
+article is referred to as “the facilitator of the meeting”.
+
+### Attendance and speaking by directors and non-members
+
+**30. (1)** The co‑operative in general meeting may permit other persons
+who are not members of the co‑operative to attend and speak at a general
+meeting.
+
+### Adjournment
+
+**31. (1)** If the persons attending a general meeting within half an
+hour of the time at which the meeting was due to start do not constitute
+a quorum, or if during a meeting a quorum ceases to be present, the
+facilitator of the meeting must adjourn it.
+
+**(2)** The facilitator of the meeting may adjourn a general meeting at
+which a quorum is present if
+
+> **(a)** the meeting consents to an adjournment, or
+>
+> **(b)** it appears to the facilitator of the meeting that an
+> adjournment is necessary to protect the safety of any person attending
+> the meeting or ensure that the business of the meeting is conducted in
+> an orderly manner.
+
+**(3)** The facilitator of the meeting must adjourn a general meeting if
+directed to do so by the meeting.
+
+**(4)** When adjourning a general meeting, the facilitator of the
+meeting must
+
+> **(a)** either specify the time and place to which it is adjourned or
+> state that it is to continue at a time and place to be fixed by the
+> members, and
+>
+> **(b)** have regard to any directions as to the time and place of any
+> adjournment which have been given by the meeting.
+
+**(5)** If the continuation of an adjourned meeting is to take place
+more than 14 days after it was adjourned, the co‑operative must give at
+least 7 clear days’ notice of it (that is, excluding the day of the
+adjourned meeting and the day on which the notice is given)
+
+> **(a)** to the same persons to whom notice of the co‑operative’s
+> general meetings is required to be given, and
+>
+> **(b)** containing the same information which such notice is required
+> to contain.
+
+**(6)** No business may be transacted at an adjourned general meeting
+which could not properly have been transacted at the meeting if the
+adjournment had not taken place.
+
+### Decisions at general meetings
+
+**32. (1)** A resolution put to the vote of a general meeting must be
+decided on a show of hands unless a poll is duly demanded in accordance
+with these articles.
+
+**(2)** Every member shall have one vote.
+
+**(3)** Any resolution passed at a meeting is passed by a majority of
+not less than 75%.
+
+### Poll votes
+
+**33. (1)** A poll on a resolution may be demanded at a general meeting,
+either before or immediately after a decision has been confirmed by the
+facilitator.
+
+**(2)** As required by the Acts, a poll may be demanded by
+
+> **(a)** five or more members; or
+>
+> **(b)** ten percent of the membership.
+
+**(3)** A demand for a poll may be withdrawn if the poll has not yet
+been taken.
+
+**(4)** Polls must be taken at such a time in that same meeting and in
+such manner as the facilitator of the meeting directs.
+
+**(5)** In the case of a poll being taken each member shall have one
+vote.
+
+**(6)** Polls may be proposed at general meetings and subsequently
+conducted and held valid by electronic means.
+
+### Content of proxy notices
+
+**34. (1)** A member who is absent from a general meeting may appoint
+any member to act as their proxy. No member however may act as proxy for
+more than three members at any one time in any general meeting.
+
+**(2)** Proxies may only validly be appointed by a notice in writing (a
+“proxy notice”) which
+
+> **(a)** states the name and address of the member appointing the
+> proxy;
+>
+> **(b)** identifies the person appointed to be that member’s proxy and
+> the general meeting in relation to which that person is appointed;
+>
+> **(c)** is signed by or on behalf of the member appointing the proxy,
+> or is authenticated in such manner as the directors may determine; and
+>
+> **(d)** is delivered to the co‑operative in accordance with the
+> articles and any instructions contained in the notice of the general
+> meeting to which they relate.
+
+**(2)** The co‑operative may require proxy notices to be delivered in a
+particular form, and may specify different forms for different purposes.
+
+**(3)** Proxy notices may specify how the proxy appointed under them is
+to represent their views or in the case of a poll to vote (or that the
+proxy is to abstain from voting) on one or more resolutions.
+
+**(4)** Unless a proxy notice indicates otherwise, it must be treated as
+
+> **(a)** allowing the person appointed under it as a proxy discretion
+> as to how to vote in any poll on any ancillary or procedural
+> resolutions put to the meeting, and
+>
+> **(b)** appointing that person as a proxy in relation to any
+> adjournment of the general meeting to which it relates as well as the
+> meeting itself.
+
+### Delivery of proxy notices
+
+**35. (1)** A member who is entitled to participate in any decision at a
+general meeting remains so entitled in respect of that meeting or any
+adjournment of it, even though a valid proxy notice has been delivered
+to the co‑operative by or on behalf of that person.
+
+**(2)** An appointment under a proxy notice may be revoked by delivering
+to the co‑operative a notice in writing given by or on behalf of the
+person by whom or on whose behalf the proxy notice was given.
+
+**(3)** A notice revoking a proxy appointment only takes effect if it is
+delivered before the start of the meeting or adjourned meeting to which
+it relates.
+
+**(4)** If a proxy notice is not signed by the person appointing the
+proxy, it must be accompanied by written evidence of the authority of
+the person who executed it to execute it on the appointer’s behalf.
+
+### Means of communication to be used
+
+**36. (1)** Subject to the articles, anything sent or supplied by or to
+the co‑operative under the articles may be sent or supplied in any way
+in which the Companies Act 2006 provides for documents or information
+which are authorised or required by any provision of that Act to be sent
+or supplied by or to the co‑operative.
+
+**(2)** Subject to the articles, any notice or document to be sent or
+supplied to a director in connection with the taking of decisions by
+directors may also be sent or supplied by the means by which that
+director has asked to be sent or supplied with such notices or documents
+for the time being.
+
+A director may agree with the co‑operative that notices or documents
+sent to that director in a particular way are to be deemed to have been
+received within a specified time of their being sent, and for the
+specified time to be less than 48 hours.
