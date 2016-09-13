@@ -6,7 +6,7 @@ If at this stage you would like to participate to a greater degree, or have been
 
 If the model we’ve established is of interest to you and you’d like to help us to refine it further, use it for your own organisation or assist in the development of a complementary technology stack, drop into <a href="http://discourse.unmonastery.org/t/examining-the-unmonastery-deep-time-bank/107">this thread</a> on Discourse.
 
-## Articles of Association ##
+## [Articles of Association](https://github.com/unmonastery/unmon-organ/blob/master/Articles_of_Association/lbg_aoa.md) ##
 Based on the model Articles of Association authored by [www.seedsforchange.org.uk](http://seedsforchange.org.uk) for UK Limited By Guarantee companies which function as Workers' Cooperatives.
 
 Please view the Markdown version of the articles [here](https://github.com/unmonastery/unmon-organ/blob/master/Articles_of_Association/lbg_aoa.md).
