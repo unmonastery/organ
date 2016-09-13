@@ -1,4 +1,4 @@
-# Documentation of the unMonastery Organ and Deep Time Bank #
+# Documentation of the unMonastery Organ #
 ## Articles of Association ##
 Based on the model Articles of Association authored by [www.seedsforchange.org.uk](http://seedsforchange.org.uk) for UK Limited By Guarantee companies which function as Workers' Cooperatives.
 
